@@ -1,7 +1,4 @@
----
-title: "Why Maestro?"
-date: 2021-09-07T16:47:31-05:00
----
+## Why Maestro?
 
 Maestro is an application being built at NASA JSC, providing painless procedure editing before and during spacewalks with shared situational awareness during execution. It solves a problem that no other tools address: handling detailed procedures that involve significant synchronization between multiple actors. Most procedures are purely serial: the same actor performs one step after another. Other tools involve multiple actors but still only model one step happening at a time. An entirely different set of tools manage high-level timelines, giving a big-picture view of what multiple resources are doing without diving into the details. For EVAs (Extravehicular Activities, also known as "spacewalks", where astronauts in space suits work outside their vehicle) we write incredibly detailed procedures managing what multiple astronauts, robots, and ground teams are working on in parallel, with a far higher granularity than is possible with any timelining tool. Managing this complexity in Microsoft Word is, to say the least, difficult.
 

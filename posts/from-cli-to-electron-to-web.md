@@ -1,8 +1,4 @@
----
-title: "From CLI to Electron to Web"
-date: 2021-09-07T16:47:31-05:00
-draft: true
----
+## From CLI to Electron to Web
 
 Maestro started as purely a command line app for converting procedures authored in YAML into Word documents. My initial belief was that this method would be a valid long term solution; we would be able to use an IDE with knowledge of the Maestro YAML schema and non-programmers would be able to author procedures without any additional user interface. I was very wrong. While writing simple procedures felt good in Maestro YAML, as soon as I started implementing a full EVA procedure it became difficult to follow sync points between actors. Thus, the requirement for an easy-to-use UI was born in late 2019.
 
