@@ -1,4 +1,4 @@
-# TBD Topic
+# Editing while executing
 
 2023-11-26
 
@@ -12,7 +12,7 @@ When someone runs an EVA training event alone (without a full flight control tea
 
 When a larger team is involved (e.g. for a real EVA in space or a larger simulation), we still need to make changes to the procedure during execution of essentially every EVA. This is very different from many other procedures in space flight. You wouldn’t, for example, adjust the procedure for a rocket launch midway through. Even for non-life-critical procedures inside the International Space Station, we don’t typically change procedure steps midway through. Why EVA procedures are different will be the subject of a later post.
 
-When we make changes during an event with a large team (again, a real EVA or big simulation) these changes can’t live as pencil marks on one person’s paper; they need to be communicated, which can be complicated depending on the magnitude of the change. There are really three types of changes made: First, sometimes just an audible change on the [MCC] voice system is acceptable (e.g. “Skip page 5, step 10; crew already performed it earlier”). Second, if there is too much content for an audible, we may need to write out the changes in a [Flight Note] like:
+When we make changes during an event with a large team (again, a real EVA or big simulation) these changes can’t live as pencil marks on one person’s paper; they need to be communicated, which can be complicated depending on the magnitude of the change. There are really three types of changes made: First, sometimes just an audible change on the [MCC](../../glossary.md#mcc) voice system is acceptable (e.g. “Skip page 5, step 10; crew already performed it earlier”). Second, if there is too much content for an audible, we may need to write out the changes in a [Flight Note] like:
 
 > - Delete step 10
 > - Move step 3 after step 5

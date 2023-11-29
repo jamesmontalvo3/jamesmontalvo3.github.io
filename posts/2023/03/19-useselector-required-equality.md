@@ -2,6 +2,8 @@
 
 2023-03-19
 
+*Tags: Software development, Redux*
+
 Redux Toolkit [docs for TypeScript](https://redux-toolkit.js.org/tutorials/typescript#define-typed-hooks) recommend wrapping `useSelector` to create a `useAppSelector` that has your store's `state` type predefined like this:
 
 ```typescript
